@@ -1,0 +1,87 @@
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+@font-face {
+  font-family: 'TV';
+  src: url('fonts/tv.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+html {
+  font-family: "Space Mono", monospace;
+  line-height: 1.7rem; 
+}
+body {
+background-color: black;
+    background-size: 300%;
+    color: white;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    font-size: 1rem;
+  }
+
+
+a {
+  color: greenyellow;
+  text-decoration: none;
+}
+
+cod {
+  color: greenyellow;
+  text-decoration: none;
+}
+
+h1, h2 {
+
+  color:yellow; }
+
+h3, h4, h5, h6 {
+      margin-top: 0;
+      margin-bottom: 2rem;
+      font-weight: 100;
+      color:yellow; }
+  .title {
+    font-size: 13.0rem;
+    font-family: 'TV', monospace;
+    font-weight: 100; 
+    line-height: 0;
+    letter-spacing: -0.2rem;
+    margin: 80px;
+  }
+
+
+
+  h1 { font-size: 3rem; line-height: 1.5;  letter-spacing: -.1rem;}
+  h2 { font-size: 1.3rem; line-height: 1.5; letter-spacing: -.1rem; }
+  h3 { font-size: 1.3rem; line-height: 1.5;  letter-spacing: -.1rem; }
+  h4 { font-size: 1.3rem; line-height: 1.5; letter-spacing: -.08rem; }
+  h5 { font-size: 1rem; line-height: 1.5;  letter-spacing: -.05rem; }
+  h6 { font-size: 0.5rem; line-height: 1.5;  letter-spacing: 0; }
+
+

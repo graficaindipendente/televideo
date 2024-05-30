@@ -1,0 +1,34 @@
+/* Definisci i font */
+@font-face {
+    font-family: 'TV';
+    src: url('fonts/tv.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TVR';
+    src: url('fonts/tvr.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GH';
+    src: url('fonts/gh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Applica i font agli elementi desiderati */
+body {
+    font-family: 'TV', monospace;
+}
+
+h1 {
+    font-family: 'TVR', monospace;
+}
+
+p {
+    font-family: 'GH', monospace;
+}
