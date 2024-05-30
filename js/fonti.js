@@ -18,5 +18,5 @@ function caricaMarkdown(file, elementoId) {
 }
 
 // Carica i contenuti nei rispettivi elementi
-caricaMarkdown('https://gist.githubusercontent.com/graficaindipendente/4096496146dcd01eb1be3e472a91dffb/raw/2a34cfc447536ac64fbd27b41565e66bb203d771/ALERTs_olalla.md', 'ultimora');
+caricaMarkdown('tips.md', 'ultimora');
 caricaMarkdown('new.md', 'new');
