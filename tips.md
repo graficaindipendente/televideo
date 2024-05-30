@@ -1,4 +1,3 @@
-test
 
 ### Il nuovo gruppo whatsapp sulle procedure di Prestampa in Olallà:
 
