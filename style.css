@@ -31,6 +31,16 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'GH';
+  src: url('fonts/gh.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+}
 
 html {
   font-family: "Space Mono", monospace;
@@ -38,11 +48,12 @@ html {
 }
 body {
 background-color: black;
+
     background-size: 300%;
     color: white;
     padding-right: 10%;
     padding-left: 10%;
-    padding-bottom: 10%;
+
     font-size: 1rem;
   }
 
@@ -84,4 +95,27 @@ h3, h4, h5, h6 {
   h5 { font-size: 1rem; line-height: 1.5;  letter-spacing: -.05rem; }
   h6 { font-size: 0.5rem; line-height: 1.5;  letter-spacing: 0; }
 
+  .link {
+    font-size: 2.0rem;
+    font-family: 'GH', monospace;
+    letter-spacing: 0;
 
+  }
+
+  .dati {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'GH', monospace;
+    font-size: 1.2rem;
+    margin: 0;
+}
+.dato {
+    border-collapse: collapse;
+    width: 70%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+    text-align: left;
+}
