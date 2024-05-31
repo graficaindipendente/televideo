@@ -1,8 +1,4 @@
 
-### Il nuovo gruppo whatsapp sulle procedure di Prestampa in Olallà:
-
-Partecipa: [PROCEDURE di PRESTAMPA](https://chat.whatsapp.com/EqjdGjMZF2R9pNkFAvDIG7)
-
 ---
 
 ## 	Segnalibro a Cuore **GRANDE** in Vera Pelle in DTF
