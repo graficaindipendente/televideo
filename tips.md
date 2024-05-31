@@ -23,7 +23,7 @@
 
 ## EPSON / XE / SUBLI
 
-* **TAZZE**  non torniamo ad usare il vecchio metodo, MA nemmeno a tazza singola. Almeno 2 tazze per foglio (o fila) come vogliamo chiamarla
+* **TAZZE** formato stampa **210 x 95mm**
 
 * [**TAZZA fiori maestre**](https://www.olalla.it/prodotto/tazza-personalizzata-con-fiori-e-nomi-dei-bambini-idea-regalo-maestra/) NON SI DEVE PIU' TOCCARE LA MISURA
 
