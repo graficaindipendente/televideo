@@ -48,51 +48,51 @@ function addZero(i) {
 			switch (month){
 					
 				case 0:
-				month="Gen";
+				month="gen";
 				break;
 					
 				case 1:
-				month="Feb";
+				month="feb";
 				break;
 					
 				case 2:
-				month="Mar";
+				month="mar";
 				break;
 					
 				case 3:
-				month="Apr";
+				month="apr";
 				break;
 					
 				case 4:
-				month="Mag";
+				month="mag";
 				break;
 					
 				case 5:
-				month="Giu";
+				month="giu";
 				break;
 					
 				case 6:
-				month="Lug";
+				month="lug";
 				break;
 					
 				case 7:
-				month="Ago";
+				month="ago";
 				break;
 					
 				case 8:
-				month="Set";
+				month="set";
 				break;
 					
 				case 9:
-				month="Ott";
+				month="ott";
 				break;
 					
 				case 10:
-				month="Nov";
+				month="nov";
 				break;
 					
 				case 11:
-				month="Dic";
+				month="dic";
 				break;	
 					}
 	
