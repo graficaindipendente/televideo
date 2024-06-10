@@ -1,9 +1,9 @@
 # TAZZE e SUBLI  
 ## torniamo ad usare il vecchio metodo metter giù tazze etc in SUBLI: è stato ripristinato il [Template SUBLI](http://192.168.10.200:6699/share.cgi?ssid=b4a545579dd84508b63ea4af698e0658) in Pronto 13.
 
-.
+&nbsp; <br>
 
-.
+&nbsp; <br>
 
 ## 	Segnalibro a Cuore **GRANDE** in Vera Pelle in DTF
 
